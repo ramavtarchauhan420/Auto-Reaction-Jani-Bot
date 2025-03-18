@@ -60,7 +60,7 @@ Deploying this Telegram Auto-Reaction Bot on Cloudflare is straightforward thank
 
 1. **Start the Deployment**:
     - Click the "Deploy to Cloudflare Workers" button below.
-    - [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
+    - [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ramavtarchauhan420/Auto-Reaction-Jani-Bot)
     
 2. **Set up your Cloudflare account**:
     - If you do not already have a Cloudflare account, you will be prompted to create one.
